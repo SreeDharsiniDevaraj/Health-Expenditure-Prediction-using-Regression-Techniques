@@ -1,0 +1,209 @@
+﻿Country,Above Threshold?,Region,Health Exp % GDP,Health Exp/Capita
+Mauritius,Below Threshold,Africa,4.8%,$444
+Seychelles,Below Threshold,Africa,4.7%,$521
+Tunisia,Below Threshold,Africa,7.0%,$297
+South Africa,Below Threshold,Africa,8.8%,$645
+Libya,Below Threshold,Africa,3.9%,$578
+Morocco,Below Threshold,Africa,6.4%,$190
+Botswana,Below Threshold,Africa,5.3%,$384
+"Egypt, Arab Rep.",Below Threshold,Africa,5.0%,$152
+Algeria,Below Threshold,Africa,5.2%,$279
+Namibia,Below Threshold,Africa,8.3%,$473
+Lesotho,Below Threshold,Africa,11.6%,$138
+Djibouti,Below Threshold,Africa,8.8%,$129
+Swaziland,Below Threshold,Africa,8.5%,$259
+Ghana,Below Threshold,Africa,5.2%,$83
+Zimbabwe,Below Threshold,Africa,,
+Gabon,Below Threshold,Africa,3.5%,$397
+Central African Republic,Below Threshold,Africa,3.8%,$18
+Mauritania,Below Threshold,Africa,6.4%,$52
+Sudan,Below Threshold,Africa,7.2%,$115
+Ethiopia,Below Threshold,Africa,3.8%,$18
+Madagascar,Below Threshold,Africa,4.1%,$18
+Sao Tome and Principe,Below Threshold,Africa,7.9%,$109
+Equatorial Guinea,Below Threshold,Africa,4.7%,"$1,138"
+Liberia,Above Threshold,Africa,15.5%,$65
+Comoros,Below Threshold,Africa,4.5%,$38
+Kenya,Below Threshold,Africa,4.7%,$45
+Rwanda,Below Threshold,Africa,10.7%,$66
+Sierra Leone,Above Threshold,Africa,15.1%,$96
+Cote d'Ivoire,Below Threshold,Africa,7.1%,$88
+South Sudan,Below Threshold,Africa,2.6%,$27
+Guinea,Below Threshold,Africa,6.3%,$32
+Togo,Below Threshold,Africa,8.6%,$41
+Benin,Below Threshold,Africa,4.5%,$33
+Eritrea,Below Threshold,Africa,2.6%,$15
+Guinea-Bissau,Below Threshold,Africa,5.9%,$30
+Cameroon,Below Threshold,Africa,5.1%,$59
+"Congo, Rep.",Below Threshold,Africa,3.2%,$100
+Senegal,Below Threshold,Africa,5.0%,$51
+Mozambique,Below Threshold,Africa,6.4%,$37
+Malawi,Below Threshold,Africa,9.2%,$25
+Tanzania,Below Threshold,Africa,7.0%,$41
+Burkina Faso,Below Threshold,Africa,6.2%,$38
+Nigeria,Below Threshold,Africa,6.1%,$94
+"Congo, Dem. Rep.",Below Threshold,Africa,5.6%,$15
+Zambia,Below Threshold,Africa,6.5%,$96
+"Gambia, The",Below Threshold,Africa,5.0%,$26
+Somalia,Below Threshold,Africa,,
+Uganda,Below Threshold,Africa,8.0%,$44
+Angola,Below Threshold,Africa,3.5%,$190
+Burundi,Below Threshold,Africa,8.1%,$20
+Chad,Below Threshold,Africa,2.8%,$25
+Mali,Below Threshold,Africa,5.8%,$42
+Niger,Below Threshold,Africa,7.2%,$25
+Japan,Below Threshold,Asia,10.1%,"$4,752"
+Thailand,Below Threshold,Asia,3.9%,$215
+"Macao SAR, China",Below Threshold,Asia,,
+"Korea, Rep.",Below Threshold,Asia,7.5%,"$1,703"
+Singapore,Below Threshold,Asia,4.7%,"$2,426"
+China,Below Threshold,Asia,5.4%,$322
+"Hong Kong SAR, China",Below Threshold,Asia,,
+"Korea, Dem. Rep.",Below Threshold,Asia,,
+Georgia,Below Threshold,Asia,9.2%,$333
+Armenia,Below Threshold,Asia,4.5%,$150
+Vietnam,Below Threshold,Asia,6.6%,$102
+Brunei Darussalam,Below Threshold,Asia,2.3%,$939
+Myanmar,Below Threshold,Asia,1.8%,$20
+Sri Lanka,Below Threshold,Asia,3.1%,$89
+Malaysia,Below Threshold,Asia,3.9%,$410
+Azerbaijan,Below Threshold,Asia,5.4%,$398
+Indonesia,Below Threshold,Asia,3.0%,$108
+Bhutan,Below Threshold,Asia,3.8%,$90
+Bangladesh,Below Threshold,Asia,3.6%,$26
+India,Below Threshold,Asia,4.0%,$61
+Uzbekistan,Below Threshold,Asia,5.9%,$105
+Turkmenistan,Below Threshold,Asia,2.0%,$129
+Nepal,Below Threshold,Asia,5.5%,$36
+Maldives,Below Threshold,Asia,8.5%,$558
+Mongolia,Below Threshold,Asia,6.3%,$232
+Kazakhstan,Below Threshold,Asia,4.2%,$521
+Philippines,Below Threshold,Asia,4.6%,$119
+Pakistan,Below Threshold,Asia,3.1%,$39
+Cambodia,Below Threshold,Asia,5.4%,$51
+Lao PDR,Below Threshold,Asia,2.9%,$40
+Kyrgyz Republic,Below Threshold,Asia,7.1%,$84
+Tajikistan,Below Threshold,Asia,5.8%,$55
+Afghanistan,Below Threshold,Asia,8.6%,$51
+Timor-Leste,Below Threshold,Asia,4.3%,$50
+Isle of Man,Below Threshold,Europe,,
+Monaco,Below Threshold,Europe,4.4%,"$6,708"
+Germany,Below Threshold,Europe,11.3%,"$4,683"
+Hungary,Below Threshold,Europe,7.8%,$987
+Serbia,Below Threshold,Europe,10.5%,$561
+Bosnia and Herzegovina,Below Threshold,Europe,9.9%,$447
+Portugal,Below Threshold,Europe,9.4%,"$1,905"
+Greece,Below Threshold,Europe,9.3%,"$2,044"
+Austria,Below Threshold,Europe,11.5%,"$5,407"
+Italy,Below Threshold,Europe,9.2%,"$3,032"
+Andorra,Below Threshold,Europe,8.3%,"$3,057"
+San Marino,Below Threshold,Europe,6.5%,"$3,792"
+Lithuania,Below Threshold,Europe,6.7%,$859
+Latvia,Below Threshold,Europe,6.0%,$792
+Romania,Below Threshold,Europe,5.1%,$420
+Bulgaria,Below Threshold,Europe,7.4%,$516
+Slovak Republic,Below Threshold,Europe,7.8%,"$1,326"
+Poland,Below Threshold,Europe,6.7%,$854
+Croatia,Below Threshold,Europe,6.8%,$908
+Czech Republic,Below Threshold,Europe,7.7%,"$1,432"
+Denmark,Below Threshold,Europe,11.2%,"$6,304"
+Malta,Below Threshold,Europe,9.1%,"$1,835"
+Liechtenstein,Below Threshold,Europe,,
+Spain,Below Threshold,Europe,9.6%,"$2,808"
+Switzerland,Below Threshold,Europe,11.3%,"$8,980"
+Ukraine,Below Threshold,Europe,7.6%,$293
+Estonia,Below Threshold,Europe,5.9%,"$1,010"
+"Macedonia, FYR",Below Threshold,Europe,7.1%,$327
+Slovenia,Below Threshold,Europe,8.8%,"$1,942"
+Belgium,Below Threshold,Europe,10.8%,"$4,711"
+Finland,Below Threshold,Europe,9.1%,"$4,232"
+Netherlands,Below Threshold,Europe,12.4%,"$5,737"
+Luxembourg,Below Threshold,Europe,6.9%,"$7,452"
+Moldova,Below Threshold,Europe,11.7%,$239
+Belarus,Below Threshold,Europe,5.0%,$339
+Montenegro,Below Threshold,Europe,7.6%,$493
+Cyprus,Below Threshold,Europe,7.3%,"$1,949"
+Norway,Below Threshold,Europe,9.0%,"$9,055"
+Sweden,Below Threshold,Europe,9.6%,"$5,319"
+Russian Federation,Below Threshold,Europe,6.3%,$887
+Albania,Below Threshold,Europe,6.0%,$228
+France,Below Threshold,Europe,11.7%,"$4,690"
+United Kingdom,Below Threshold,Europe,9.4%,"$3,647"
+Faeroe Islands,Below Threshold,Europe,,
+Iceland,Below Threshold,Europe,9.1%,"$3,872"
+Ireland,Below Threshold,Europe,8.1%,"$3,708"
+Turkey,Below Threshold,Europe,6.3%,$665
+Kosovo,Below Threshold,Europe,,
+Qatar,Below Threshold,Middle East,2.2%,"$2,029"
+Lebanon,Below Threshold,Middle East,7.6%,$675
+United Arab Emirates,Below Threshold,Middle East,2.8%,"$1,343"
+Bahrain,Below Threshold,Middle East,3.9%,$895
+"Iran, Islamic Rep.",Below Threshold,Middle East,6.7%,$490
+Saudi Arabia,Below Threshold,Middle East,3.2%,$795
+Kuwait,Below Threshold,Middle East,2.5%,"$1,428"
+Oman,Below Threshold,Middle East,2.6%,$690
+Israel,Below Threshold,Middle East,7.5%,"$2,289"
+Syrian Arab Republic,Below Threshold,Middle East,3.4%,$105
+Jordan,Below Threshold,Middle East,9.8%,$388
+"Yemen, Rep.",Below Threshold,Middle East,5.5%,$71
+Iraq,Below Threshold,Middle East,3.6%,$226
+American Samoa,Below Threshold,Oceania,,
+Marshall Islands,Above Threshold,Oceania,15.6%,$590
+New Zealand,Below Threshold,Oceania,10.3%,"$3,292"
+Australia,Below Threshold,Oceania,9.1%,"$6,140"
+New Caledonia,Below Threshold,Oceania,,
+French Polynesia,Below Threshold,Oceania,,
+Guam,Below Threshold,Oceania,,
+Fiji,Below Threshold,Oceania,4.0%,$177
+Kiribati,Below Threshold,Oceania,10.7%,$187
+"Micronesia, Fed. Sts.",Below Threshold,Oceania,12.8%,$405
+Tonga,Below Threshold,Oceania,5.4%,$238
+Vanuatu,Below Threshold,Oceania,3.6%,$116
+Samoa,Below Threshold,Oceania,6.8%,$245
+Papua New Guinea,Below Threshold,Oceania,5.2%,$114
+Solomon Islands,Below Threshold,Oceania,8.0%,$148
+Sint Maarten (Dutch part),Below Threshold,The Americas,,
+Turks and Caicos Islands,Below Threshold,The Americas,,
+Dominica,Below Threshold,The Americas,5.9%,$392
+St. Kitts and Nevis,Below Threshold,The Americas,5.9%,$825
+Aruba,Below Threshold,The Americas,,
+Cuba,Below Threshold,The Americas,8.6%,$558
+Puerto Rico,Below Threshold,The Americas,,
+Virgin Islands (U.S.),Below Threshold,The Americas,,
+Canada,Below Threshold,The Americas,10.9%,"$5,741"
+Bermuda,Below Threshold,The Americas,,
+Cayman Islands,Below Threshold,The Americas,,
+Curacao,Below Threshold,The Americas,,
+Barbados,Below Threshold,The Americas,6.3%,$938
+United States,Above Threshold,The Americas,17.9%,"$8,895"
+Greenland,Below Threshold,The Americas,,
+Chile,Below Threshold,The Americas,7.2%,"$1,103"
+Trinidad and Tobago,Below Threshold,The Americas,5.4%,$972
+Brazil,Below Threshold,The Americas,9.3%,"$1,056"
+Jamaica,Below Threshold,The Americas,5.9%,$318
+"Bahamas, The",Below Threshold,The Americas,7.5%,"$1,647"
+Uruguay,Below Threshold,The Americas,8.9%,"$1,308"
+Costa Rica,Below Threshold,The Americas,10.1%,$951
+St. Lucia,Below Threshold,The Americas,8.5%,$556
+St. Martin (French part),Below Threshold,The Americas,,
+St. Vincent and the Grenadines,Below Threshold,The Americas,5.2%,$340
+Argentina,Below Threshold,The Americas,8.5%,$995
+Antigua and Barbuda,Below Threshold,The Americas,5.2%,$681
+Suriname,Below Threshold,The Americas,5.9%,$521
+Grenada,Below Threshold,The Americas,6.4%,$478
+Colombia,Below Threshold,The Americas,6.8%,$530
+Mexico,Below Threshold,The Americas,6.1%,$618
+El Salvador,Below Threshold,The Americas,6.7%,$254
+Peru,Below Threshold,The Americas,5.1%,$337
+"Venezuela, RB",Below Threshold,The Americas,4.6%,$593
+Panama,Below Threshold,The Americas,7.6%,$723
+Guyana,Below Threshold,The Americas,6.6%,$235
+Dominican Republic,Below Threshold,The Americas,5.4%,$310
+Ecuador,Below Threshold,The Americas,6.4%,$361
+Nicaragua,Below Threshold,The Americas,8.2%,$144
+Paraguay,Below Threshold,The Americas,10.3%,$392
+Belize,Below Threshold,The Americas,5.8%,$259
+Haiti,Below Threshold,The Americas,6.4%,$53
+Bolivia,Below Threshold,The Americas,5.8%,$149
+Honduras,Below Threshold,The Americas,8.6%,$195
+Guatemala,Below Threshold,The Americas,6.7%,$226
